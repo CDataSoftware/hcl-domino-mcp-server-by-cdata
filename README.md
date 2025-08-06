@@ -1,7 +1,7 @@
 # hcl-domino-mcp-server-by-cdata
 CData's Model Context Protocol (MCP) Server for HCL Domino
 
-:heavy_exclamation_mark: This project builds a read-only MCP server. For full read, write, update, delete, and action capabilities and a simplified setup, check out our free [CData MCP Server for HCL Domino (beta)](https://www.cdata.com/download/download.aspx?sku=JKZK-V&type=beta). 
+:heavy_exclamation_mark: This project builds a read-only MCP server. For full read, write, update, delete, and action capabilities and a simplified setup, check out our free [CData MCP Server for HCL Domino (beta)](https://www.cdata.com/download/download.aspx?sku=JKZM-V&type=beta). 
 ## Purpose
 We created this read-only MCP Server to allow LLMs (like Claude Desktop) to query live data HCL Domino supported by the [CData JDBC Driver for HCL Domino](https://www.cdata.com/drivers/domino/jdbc).
 
